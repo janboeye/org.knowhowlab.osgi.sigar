@@ -109,6 +109,7 @@
                             libsigar-arm-linux.so;osname=Linux;processor=ARM,
                             libsigar-x86-linux.so;osname=Linux;processor=i386;processor=x86,
                             libsigar-amd64-linux.so;osname=Linux;processor=x86_64,
+                            libsigar-aarch64-macosx.dylib;osname=macosx;processor=aarch64,
                             libsigar-universal64-macosx.dylib;osname=macosx;processor=x86_64,
                             sigar-amd64-winnt.dll;osname=Windows7;osname=Windows8;osname=Windows10;processor=x86_64,
                             sigar-x86-winnt.dll;osname=Windows7;osname=Windows8;osname=Windows10;processor=x86
